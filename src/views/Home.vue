@@ -1,6 +1,6 @@
 <template>
   <div class="text-center">
-    <h2>Clasificación de video a LSC</h2>
+    <h2>Clasificación de video de la LSC</h2>
       <v-container fluid fill-height>
         <v-layout align-center justify-center>
           <v-flex xs12 sm8 md4>
