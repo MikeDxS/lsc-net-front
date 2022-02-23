@@ -6,7 +6,7 @@
       dark
       class="text-center"
     >
-    <h3>Modelo de lenguaje de señas colombiano</h3>
+    <h3>Modelo de lengua de señas colombiana</h3>
     </v-app-bar>
     <v-main>
       <router-view/>
