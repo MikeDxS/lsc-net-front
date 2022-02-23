@@ -41,7 +41,7 @@ import axios from 'axios'
     name: 'Home',
     data: () => ({
         file: null,
-        urlBase: 'http://localhost:5000',
+        urlBase: 'https://lesecol-net-as.azurewebsites.net',
         userName: '',
         processing: false
     }),
