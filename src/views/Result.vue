@@ -5,8 +5,8 @@
             <v-card>
                 <v-card-title primary-title>
                     <div>
-                        <h3 class="headline mb-0">Clasificación de video a lenguaje de señas</h3>
-                        <div>La seña corresponde a {{ classes[result.class] }}</div>
+                        <h3 class="headline mb-0">Clasificación de video a lengua de señas</h3>
+                        <div>Según el modelo la seña corresponde a {{ classes[result.class] }}</div>
                     </div>
                 </v-card-title>
                 <v-card-text>
